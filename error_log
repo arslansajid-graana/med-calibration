@@ -1,0 +1,32 @@
+[24-Apr-2018 13:04:53 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'techlets_foji'@'localhost' (using password: YES) in /home/techletspk/public_html/inventory/database/db.php on line 14
+[24-Apr-2018 13:04:53 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/techletspk/public_html/inventory/authentication/login.php on line 35
+[24-Apr-2018 13:05:41 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'techlets_foji'@'localhost' (using password: YES) in /home/techletspk/public_html/inventory/database/db.php on line 14
+[24-Apr-2018 13:05:41 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/techletspk/public_html/inventory/authentication/login.php on line 35
+[24-Apr-2018 13:06:26 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'techlets_foji'@'localhost' (using password: YES) in /home/techletspk/public_html/inventory/database/db.php on line 14
+[24-Apr-2018 13:06:26 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/techletspk/public_html/inventory/authentication/login.php on line 35
+[24-Apr-2018 13:06:33 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'techlets_foji'@'localhost' (using password: YES) in /home/techletspk/public_html/inventory/database/db.php on line 14
+[24-Apr-2018 13:06:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/techletspk/public_html/inventory/authentication/login.php on line 35
+[24-Apr-2018 13:07:47 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'techlets_foji'@'localhost' (using password: YES) in /home/techletspk/public_html/inventory/database/db.php on line 14
+[24-Apr-2018 13:07:47 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/techletspk/public_html/inventory/authentication/login.php on line 35
+[24-Apr-2018 13:09:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/techletspk/public_html/inventory/deluser.php:9) in /home/techletspk/public_html/inventory/deluser.php on line 12
+[24-Apr-2018 19:45:31 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/techletspk/public_html/inventory/deluser.php:9) in /home/techletspk/public_html/inventory/deluser.php on line 12
+[24-Apr-2018 20:59:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/techletspk/public_html/inventory/approvecat.php:9) in /home/techletspk/public_html/inventory/approvecat.php on line 12
+[24-Apr-2018 22:27:17 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/techletspk/public_html/inventory/viewInventory.php on line 354
+[24-Apr-2018 22:27:17 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/techletspk/public_html/inventory/viewInventory.php on line 356
+[24-Apr-2018 22:27:46 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/techletspk/public_html/inventory/viewInventory.php on line 353
+[24-Apr-2018 22:27:46 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/techletspk/public_html/inventory/viewInventory.php on line 355
+[24-Apr-2018 23:09:09 UTC] PHP Fatal error:  Cannot redeclare addUser() (previously declared in /home/techletspk/public_html/inventory/viewInventory.php:12) in /home/techletspk/public_html/inventory/viewInventory.php on line 64
+[24-Apr-2018 23:09:33 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/techletspk/public_html/inventory/viewInventory.php on line 530
+[24-Apr-2018 23:32:43 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/techletspk/public_html/inventory/viewInventory.php on line 514
+[24-Apr-2018 23:32:43 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/techletspk/public_html/inventory/viewInventory.php on line 516
+[24-Apr-2018 23:33:59 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/techletspk/public_html/inventory/viewInventory.php on line 515
+[24-Apr-2018 23:33:59 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/techletspk/public_html/inventory/viewInventory.php on line 517
+[24-Apr-2018 23:34:53 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/techletspk/public_html/inventory/viewInventory.php on line 514
+[24-Apr-2018 23:34:53 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/techletspk/public_html/inventory/viewInventory.php on line 516
+[24-Apr-2018 23:35:00 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/techletspk/public_html/inventory/viewInventory.php on line 514
+[24-Apr-2018 23:35:00 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/techletspk/public_html/inventory/viewInventory.php on line 516
+[25-Apr-2018 14:29:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/techletspk/public_html/inventory/addcat.php:11) in /home/techletspk/public_html/inventory/addcat.php on line 14
+[25-Apr-2018 14:29:45 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/techletspk/public_html/inventory/addsubcat.php:9) in /home/techletspk/public_html/inventory/addsubcat.php on line 14
+[25-Apr-2018 14:30:41 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/techletspk/public_html/inventory/addcat.php:11) in /home/techletspk/public_html/inventory/addcat.php on line 14
+[25-Apr-2018 14:30:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/techletspk/public_html/inventory/addsubcat.php:9) in /home/techletspk/public_html/inventory/addsubcat.php on line 14
+[25-Apr-2018 14:31:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/techletspk/public_html/inventory/deluser.php:9) in /home/techletspk/public_html/inventory/deluser.php on line 12
